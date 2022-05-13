@@ -1,0 +1,37 @@
+# Site settings
+title:          Light Forest
+email: cinjon@blueprintforest.com
+description:    "Crypto and Machine Learning: Build & Invest"
+url:            "https://www.lightforest.co"
+
+# Authors
+lf:
+    name: Light Forest
+    email: cinjon@blueprintforest.com
+    web: https://twitter.com/lightforestco
+cinjon:
+    name: Cinjon
+    email: cinjon@blueprintforest.com
+    web: http://twitter.com/cinjoncin
+dino:
+    name: Dino
+    email: dino@blueprintforest.com
+
+# Build settings
+markdown:       kramdown
+future:         false 
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll-redirect-from
+
+# Permalinks
+permalink:      /:year/:title
+paginate:       5

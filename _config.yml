@@ -4,6 +4,9 @@ email: cinjon@blueprintforest.com
 description:    "Crypto and Machine Learning: Build & Invest"
 url:            "https://www.lightforest.co"
 
+# Google Analytics
+google_analytics: G-HVF6V3CLZB
+
 # Authors
 lf:
     name: Light Forest

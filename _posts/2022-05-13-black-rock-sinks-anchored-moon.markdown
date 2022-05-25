@@ -55,7 +55,7 @@ Rather than add yet another report, we just add a few choice thoughts on what’
     <li>A sudden bubble pop from a recursive borrowing spree is commonly seen as a Ponzi.</li>
     </ol>
 6. History will see Luna/UST as a ponzi, but it never needed to be nor was that their intention. They let this run wild but without Anchor running for so long, the Luna/UST ecosystem could have kept growing into what was becoming a collateralized algorithmic stablecoin. In other words, I don’t agree with this [analysis](https://twitter.com/gametheorizing/status/1526376821260009472), and would welcome conversation on it. 
-7. The big winner in this will be FRAX. A thesis for FRAX is the following:
+7. The big winner in this could be FRAX. A thesis for FRAX is the following:
     <ol type="a">
     <li>Stablecoins are necessary for the space. They’re a huge opportunity.</li>
     <li>There's three main ones historically - USDC, USDT, and DAI. Those three all have problems that others try to solve. The ones who have done the best job of addressing them are FRAX and (rip) UST.</li>

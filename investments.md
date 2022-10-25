@@ -5,4 +5,4 @@ author: lf
 permalink: /investments/
 ---
 
-TODO
+Coming soon.
